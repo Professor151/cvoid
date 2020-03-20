@@ -128,7 +128,7 @@ export default function Main() {
       </Container>
 
 
-      <div class="footer-copyright text-center py-3">Made with ❤️ by 
+      <div class="footer-copyright text-center py-3">Developed by 
         <a className="text-decoration-none" href="https://www.facebook.com/r.nahid111"> Nahid Rafee</a>
       </div>
 
